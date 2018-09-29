@@ -1,0 +1,17 @@
+{
+  "name": "someProject",
+  "description": "",
+  "main": "webpack.config.js",
+  "authors": [
+    "luongit <luongitvnsoft@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
