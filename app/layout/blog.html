@@ -1,7 +1,8 @@
 <div class="container">
+  <h1 ng-click="vm.addBlog()">{{vm.title}}</h1>
   <div class="list-group">
-    <a href="" class="list-group-item list-group-item-action" ng-repeat="blog in vm.blog.data">
-      {{blog.name}} aaa
+    <a href="" class="list-group-item list-group-item-action" ng-repeat="blog in blog.data">
+      {{blog.name}}
 
     </a>
   </div>

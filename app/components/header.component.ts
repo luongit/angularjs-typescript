@@ -7,5 +7,4 @@ class headerComponent implements ng.IComponentOptions {
     this.templateUrl = "./app/layout/header.html";
   }
 }
-
 export default headerComponent;
